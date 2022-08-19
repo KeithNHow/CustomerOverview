@@ -4,7 +4,7 @@
 report 50400 "KNH Customer Overview"
 {
     DefaultLayout = RDLC;
-    RDLCLayout = 'src\Sundry\Report\Layouts\KNH Customer Overview.rdlc';
+    RDLCLayout = 'src\Report\Layouts\KNH Customer Overview.rdlc';
     ApplicationArea = All;
     Caption = 'Customer Overview';
     UsageCategory = ReportsAndAnalysis;
